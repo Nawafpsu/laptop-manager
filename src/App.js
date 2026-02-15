@@ -108,10 +108,10 @@ function AboutPage() {
       <p style={{ color: '#666' }}>Project Group: SE411 - Part 1</p>
       <ul style={{ lineHeight: '2' }}>
         <li><strong>Nawaf Faisal AlShiagy</strong> - 221110015</li>
-        <li><strong>Abdulilah AlMutairy</strong> - 11223344</li>
-        <li><strong>[Third Member Name]</strong> - [ID]</li>
+        <li><strong>Abdullah Alzahrani</strong> - 220110436</li>
+        <li><strong>Rayan Aljadhai</strong> - 220110707</li>
       </ul>
-      <p style={{ color: 'red', fontSize: '0.9rem' }}>* Note: Project requires a group of three.</p>
+      
     </div>
   );
 }

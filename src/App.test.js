@@ -6,7 +6,8 @@ const MockAbout = () => (
   <div>
     <h1>Team Members</h1>
     <p>Nawaf Faisal AlShiagy</p>
-    <p>Abdulilah AlMutairy</p>
+    <p>Abdullah Alzahrani</p>
+    <p>Rayan Aljadhai</p>
   </div>
 );
 

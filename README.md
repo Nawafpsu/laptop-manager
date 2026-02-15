@@ -2,8 +2,8 @@
 
 ## 👤 Team Members
 * **Nawaf Faisal AlShiagy** - 221110015
-* **Abdulilah AlMutairy** - 11223344
-* **[Third Member Name]** - [Student ID]
+* **Abdullah Alzahrani** - 220110436
+* **Rayan Aljadhai** - 220110707
 
 ---
 
